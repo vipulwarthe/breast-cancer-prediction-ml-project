@@ -17,7 +17,7 @@ cd mlproject                              (enter in project directory)
 
 # Login to your github account and create a new repo and paste cmds from github repo:
 
-echo "# End-to-end-ML-Project" >> README.md
+echo "# End-to-end-ML-Project" >> README.md 
 
 git add README.md
 
